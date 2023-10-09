@@ -1,0 +1,101 @@
+@media (min-width: 365px) and (max-width: 2000px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+   div{
+    width: 100%;
+    height: auto;
+  }
+
+   body{
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+.pgLogin{
+    background-color:#404273;
+    align-items: center;
+}
+
+
+img{
+margin-left: 20%;
+background-color:#d9d9d9;
+height:510px;
+width:512px;
+left:486px;
+top:136px;
+position:absolute;
+}
+.entrar
+{
+margin-left: 20%;
+color:#ffffff;
+text-align:left;
+vertical-align:text-top;
+font-size:96px;
+font-family:Inter;
+left:104px;
+top:43px;
+width:354px;
+height:122px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.rectangle3
+{
+margin-left: 20%;
+align-items: center;
+background-color:#d9d9d9;
+height:400px;
+width:350px;
+top:174px;
+left:54px;
+position:absolute;
+}
+
+form{
+    align-items: center;
+    font-size: 26px;
+    margin-left: 26px;
+    margin-top: 80px;
+}
+
+input{ 
+  margin: 26px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+button{
+align-items: center;
+font-size:26px;
+background-color:#f0790c;
+height:56px;
+border-radius:30px;
+margin-left:40%;
+}
+
+.frame2{
+position:absolute;
+background-color:#ffffff;
+height:1017px;
+width:1045px;
+padding:0px;
+}
+
+a{
+  align-items: center;
+font-size:26px;
+height:56px;
+border-radius:30px;
+margin-left:40%;
+  text-decoration: none;
+  color: #5359f7;
+}
